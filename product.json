@@ -1,0 +1,27 @@
+{
+  "name": "Bulk QR Campaign Pack — Offline CSV-to-Print Workshop",
+  "version": "1.0.0",
+  "price": {
+    "amount": "5.99",
+    "currency": "USDC",
+    "network": "eip155:8453"
+  },
+  "buyUrl": "https://payanagent.com/x402/kh77cwgt1bbc6kvgmx1x3mz2r58aexnn",
+  "delivery": "one-time download",
+  "archive": {
+    "filename": "bulk-qr-campaign-pack-v1.0.0.zip",
+    "bytes": 80046,
+    "sha256": "1cc99dad6141e41f069ec322bdeae6117f109a605880133b03734f85575e278c"
+  },
+  "runtime": {
+    "offline": true,
+    "networkRequests": false,
+    "accountRequired": false
+  },
+  "limits": {
+    "rows": 1000,
+    "inputFileBytes": 2097152,
+    "payloadUtf8Bytes": 2048
+  },
+  "generatedAt": "2026-07-13T01:40:00.000Z"
+}
