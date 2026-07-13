@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "items": [
+    { "id": "entrance-north", "text": "https://example.com/event/check-in?gate=north", "label": "North entrance" },
+    { "id": "seat-001", "text": "https://example.com/event/seat/001", "label": "Row A, Seat 1" },
+    { "id": "menu-cafe", "text": "https://example.com/cafe/menu", "label": "Café menu" },
+    { "id": "help-desk", "text": "https://example.com/help", "label": "Справочная" },
+    { "id": "emoji-stop", "text": "https://example.com/stops/%F0%9F%A7%AD", "label": "Compass stop 🧭" }
+  ]
+}
