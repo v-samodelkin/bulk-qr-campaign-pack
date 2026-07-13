@@ -1,0 +1,6 @@
+id,text,label
+entrance-north,https://example.com/event/check-in?gate=north,North entrance
+seat-001,https://example.com/event/seat/001,"Row A, Seat 1"
+menu-cafe,https://example.com/cafe/menu,Café menu
+help-desk,https://example.com/help,Справочная
+emoji-stop,https://example.com/stops/%F0%9F%A7%AD,Compass stop 🧭
