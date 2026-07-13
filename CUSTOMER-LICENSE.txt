@@ -1,0 +1,16 @@
+QR CAMPAIGN FOUNDRY CUSTOMER LICENSE — VERSION 1.0
+
+Copyright © 2026 Vitalii Samodelkin. All rights reserved except as granted below.
+
+One completed purchase grants one individual or one organization a perpetual, worldwide, non-exclusive license to:
+
+1. use and internally modify the workshop;
+2. create unlimited QR campaigns for the licensee's own operations and for clients;
+3. use generated QR assets, campaign JSON, manifests, and print sheets commercially; and
+4. deliver generated outputs to clients without attribution.
+
+The licensee may not redistribute, resell, sublicense, publish, or offer the original archive, workshop application, source, documentation, or templates; operate it as a hosted generator for third parties; sell a competing template/tool pack derived from it; or represent the workshop as exclusive custom development.
+
+Third-party components remain under their respective licenses and notices. This license does not restrict the rights those licenses independently grant.
+
+THE PRODUCT IS PROVIDED "AS IS", WITHOUT WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SCAN PERFORMANCE, DESTINATION SAFETY, OR NON-INFRINGEMENT. THE LICENSEE IS RESPONSIBLE FOR PAYLOADS, DESTINATIONS, DATA PROTECTION, AND PHYSICAL PROOF-PRINTING. TO THE MAXIMUM EXTENT PERMITTED BY LAW, LIABILITY IS LIMITED TO THE PURCHASE PRICE.
